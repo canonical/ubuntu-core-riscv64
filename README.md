@@ -1,4 +1,14 @@
-# ubuntu-core-riscv64
+# Notice
+
+This repository is now archived and work is continuing in two different repositories:
+
+[Gadget snaps](https://github.com/canonical/iot-field-gadget-snap)
+[Kernel snaps](https://github.com/canonical/iot-field-kernel-snap)
+
+Please refer to those repositories for up-to-date information or issues impacting 
+the platforms this repository works with!
+
+## ubuntu-core-riscv64
 
 Provides the tooling for building an Ubuntu Core image on RISC-V.
 
